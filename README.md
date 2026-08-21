@@ -7,7 +7,7 @@
 
 > Proyecto desarrollado como parte del bootcamp de Data Analytics 
 > de TripleTen (2026). Dataset real de ~16,000 registros de ventas 
-> globales de videojuegos (1980–2016).
+> globales de videojuegos (1980-2016).
 
 ---
 
@@ -27,7 +27,7 @@ el retorno?
 ## 2. Metodología
 
 **Paso 1 - Carga y revisión de datos**
-- Dataset: `games.csv` con ~16,000 registros (1980–2016)
+- Dataset: `games.csv` con ~16,000 registros (1980-2016)
 - Variables: plataforma, género, región (NA, EU, JP, otros), 
   ventas globales, reseñas de críticos y usuarios
 
@@ -38,8 +38,8 @@ el retorno?
   inconsistentes
 
 **Paso 3 - Análisis exploratorio (EDA)**
-- Evolución del mercado por año (1980–2016)
-- Ciclo de vida de plataformas: duración promedio de 8–12 años
+- Evolución del mercado por año (1980-2016)
+- Ciclo de vida de plataformas: duración promedio de 8-12 años
 - Distribución de ventas globales por plataforma y género
 - Comparación regional: NA, EU y JP
 
