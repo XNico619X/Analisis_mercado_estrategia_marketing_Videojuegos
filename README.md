@@ -71,13 +71,13 @@ el retorno?
 **Correlación reseñas → ventas:**
 - Reseñas de críticos: correlación moderada-alta con ventas 
   globales **(r = 0.58)**
-- Reseñas de usuarios: correlación más débil — las críticas 
+- Reseñas de usuarios: correlación más débil - las críticas 
   profesionales son el mejor predictor disponible
 
 **Plataformas líderes (datos al cierre del análisis):**
 - PS4 y Xbox One dominaban el mercado activo
 - PS3 y Xbox 360 en declive pero con actividad residual
-- Ciclo de vida promedio: 8–12 años antes de caída significativa
+- Ciclo de vida promedio: 8-12 años antes de caída significativa
 
 **Diferencias regionales claras:**
 
@@ -88,7 +88,7 @@ el retorno?
 | Japón | Role-Playing, Action | 3DS, PS3/PS4 |
 
 **Tendencia del mercado:**
-- Pico de lanzamientos entre 2008–2011
+- Pico de lanzamientos entre 2008-2011
 - Post-2011: menos títulos pero mayor selectividad del mercado
 - Mercado más competitivo y exigente hacia 2016
 
@@ -108,7 +108,7 @@ decidir inversión en un título - correlación r=0.58 lo convierte
 en el indicador más confiable disponible.
 
  **- Evitar inversión en plataformas en declive** - el ciclo de 
-vida de 8–12 años indica cuándo una plataforma está perdiendo 
+vida de 8-12 años indica cuándo una plataforma está perdiendo 
 relevancia comercial.
 
 **- Aprovechar ventanas de lanzamiento** de nuevas plataformas - 
@@ -137,14 +137,15 @@ jupyter notebook videojuegos.ipynb
 
 ## 7. Estructura del repositorio
 Analisis_mercado_estrategia_marketing_Videojuegos
-├──  videojuegos.ipynb # Análisis completo y visualizaciones
-├──  games.csv # Dataset original de ventas globales
-└──  README.md # Este archivo
+
+- videojuegos.ipynb # Análisis completo y visualizaciones
+- games.csv # Dataset original de ventas globales
+- README.md # Este archivo
 
 
 ##  Autor
 
-**Nicolás Espinosa Bedoya** — Data Analyst  
+**Nicolás Espinosa Bedoya** - Data Analyst  
  [Portafolio](https://xnico619x.github.io) · 
  [LinkedIn](https://www.linkedin.com/in/nicolas-espinosa-bedoya-data-analyst) · 
  inge.nicoespi@gmail.com
