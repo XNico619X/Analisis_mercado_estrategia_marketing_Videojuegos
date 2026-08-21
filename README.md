@@ -26,29 +26,29 @@ el retorno?
 
 ## 2. Metodología
 
-**Paso 1 — Carga y revisión de datos**
+**Paso 1 - Carga y revisión de datos**
 - Dataset: `games.csv` con ~16,000 registros (1980–2016)
 - Variables: plataforma, género, región (NA, EU, JP, otros), 
   ventas globales, reseñas de críticos y usuarios
 
-**Paso 2 — Limpieza y preparación**
+**Paso 2 - Limpieza y preparación**
 - Detección y manejo de valores faltantes
 - Normalización de nombres de plataformas y géneros
 - Conversión de tipos de datos y filtrado de registros 
   inconsistentes
 
-**Paso 3 — Análisis exploratorio (EDA)**
+**Paso 3 - Análisis exploratorio (EDA)**
 - Evolución del mercado por año (1980–2016)
 - Ciclo de vida de plataformas: duración promedio de 8–12 años
 - Distribución de ventas globales por plataforma y género
 - Comparación regional: NA, EU y JP
 
-**Paso 4 — Análisis de correlaciones**
+**Paso 4 - Análisis de correlaciones**
 - Relación entre reseñas de críticos y ventas globales
 - Relación entre reseñas de usuarios y ventas
 - Análisis por plataforma para detectar diferencias
 
-**Paso 5 — Validación estadística**
+**Paso 5 - Validación estadística**
 - Pruebas de hipótesis (t-test, p-valores) sobre diferencias 
   de comportamiento entre regiones y plataformas
 
@@ -97,21 +97,21 @@ el retorno?
 ## 5. Recomendaciones de negocio
 
 **- Concentrar presupuesto de marketing 2017 en PS4 y Xbox One** 
-para NA y EU — plataformas activas con mayor base de usuarios.
+para NA y EU - plataformas activas con mayor base de usuarios.
 
-**- Estrategia diferenciada para Japón** — géneros RPG y 
+**- Estrategia diferenciada para Japón** - géneros RPG y 
 plataformas portátiles (3DS) tienen comportamiento radicalmente 
 distinto al mercado occidental.
 
 **- Usar score de críticos como filtro de calidad** antes de 
-decidir inversión en un título — correlación r=0.58 lo convierte 
+decidir inversión en un título - correlación r=0.58 lo convierte 
 en el indicador más confiable disponible.
 
- **- Evitar inversión en plataformas en declive** — el ciclo de 
+ **- Evitar inversión en plataformas en declive** - el ciclo de 
 vida de 8–12 años indica cuándo una plataforma está perdiendo 
 relevancia comercial.
 
-**- Aprovechar ventanas de lanzamiento** de nuevas plataformas — 
+**- Aprovechar ventanas de lanzamiento** de nuevas plataformas - 
 los datos muestran picos de ventas asociados a nuevas generaciones 
 de consolas.
 
